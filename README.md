@@ -1,5 +1,6 @@
 # sender_info_bot
-This bot can forward text and media files from user to groups in Telegram
+Message sender bot Telegram 
+forward text and media files from user to groups in Telegram
 
 run file main.py
 
