@@ -1,3 +1,23 @@
-Forward Message in Telegram Bot
-Message sender bot Telegram - forwarding any text and media files photos, captions from user to groups in Telegram.
-poetry added dependencies: python3.12, aiogram3.14.0, punq0.7.0, python-dotenv1.0.1
+# Telegram Forwarding Bot
+
+## Описание
+Telegram Forwarding Bot — это простой и удобный бот для автоматической пересылки сообщений из одного чата в другой. Он поддерживает пересылку текстовых сообщений и изображений.
+
+## Функции
+- Пересылка текстовых сообщений
+- Пересылка мультимедийных файлов (изображения)
+- Поддержка групповых чатов и каналов
+- Легкая настройка и использование
+
+## Установка
+1. **Создайте нового бота в Telegram:**
+   - Откройте Telegram и найдите бота [BotFather](https://t.me/BotFather).
+   - Отправьте команду `/newbot` и следуйте инструкциям для создания нового бота.
+   - Сохраните токен API, который вам предоставит BotFather.
+
+2. **Клонируйте репозиторий:**
+   ```bash
+   git clone https://github.com/yourusername/telegram-forwarding-bot.git
+   cd telegram-forwarding-bot
+
+## python3.12, aiogram3.14.0, punq0.7.0, python-dotenv1.0.1
